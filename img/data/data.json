@@ -1,0 +1,30 @@
+{
+	"products":[
+		{
+		"name":"realme note 8",
+		"image":"",
+		"price":"15000",
+		"dprice":"12000"
+		},{
+		"name":"samsung j7 next",
+		"image":"",
+		"price":"25000",
+		"dprice":"22000"
+		},{
+		"name":" redmi note 7 ",
+		"image":"",
+		"price":"12000",
+		"dprice":"10000"
+		},{
+		"name":"pocox2",
+		"image":"",
+		"price":"18000",
+		"dprice":"16000"
+		},{
+		"name":"oppo",
+		"image":"",
+		"price":"20000",
+		"dprice":"18000"
+		}
+	]
+}

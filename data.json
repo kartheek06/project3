@@ -1,0 +1,31 @@
+{
+	"products":[
+		{
+		"name":"realme note 8",
+		"image":"img/1.jpg.png",
+		"price":"15000",
+		"dprice":"12000"
+		},{
+		"name":"realme 5s",
+		"image":"img/2.jpg.jpg",
+		"price":"25000",
+		"dprice":"22000"
+		},{
+		"name":" redmi note 7 ",
+		"image":"img/3.jpg.jpg",
+		"price":"12000",
+		
+		"dprice":"10000"
+		},{
+		"name":"pocox2",
+		"image":"img/4.jpg.jpg",
+		"price":"18000",
+		"dprice":"16000"
+		},{
+		"name":"oppo f15",
+		"image":"img/5.jpg.jpg",
+		"price":"20000",
+		"dprice":"18000"
+		}
+	]
+}
